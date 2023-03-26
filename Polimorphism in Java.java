@@ -1,3 +1,9 @@
+/**
+ *  Demonstrasi Polimorfisme dalam Pemrograman Java
+ *  Author: Johan Kristianto/2102635
+ *  26 Maret 2023
+ */
+
 package source;
 
 import java.util.Scanner;
